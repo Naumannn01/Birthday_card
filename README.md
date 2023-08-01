@@ -1,4 +1,4 @@
-# Birthday_card Using Html Css
+# Birthday_card Using HTML Css
 Use this source code to make a simple yet beautiful virtual card for your loved ones
 
 Note
