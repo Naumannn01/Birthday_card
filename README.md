@@ -1,4 +1,7 @@
 # Birthday_card Using HTML Css
+For a preview visit --- https://64f84d429d6a7a6090b4f00d--wondrous-kelpie-9bb9bb.netlify.app/
+
+hosted from netlify(zip drop)
 Use this source code to make a simple yet beautiful virtual card for your loved ones
 
 Note
